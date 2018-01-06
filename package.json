@@ -26,6 +26,6 @@
     "url": "https://github.com/goto-bus-stop/estree-is-member-expression.git"
   },
   "scripts": {
-    "test": "standard && tape test/*.js"
+    "test": "standard && tape test.js"
   }
 }
